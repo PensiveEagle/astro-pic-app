@@ -10,6 +10,4 @@ COPY . .
 
 EXPOSE 8080
 
-# CMD [ "streamlit", "run", "main.py", "--server.port", "8080" ]
-
-CMD [ "python", "main.py" ]
+CMD [ "streamlit", "run", "main.py", "--server.port", "8080" ]
