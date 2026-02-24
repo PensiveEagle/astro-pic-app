@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/PensiveEagle">
-    <img src="https://raw.githubusercontent.com/PensiveEagle/asset-repo/822e4442213f8046000d4c47cec31e4112dac30b/readme_assets/general_assets/pensiveeagle-logo-green.svg" alt="Pensive Eagle Logo" width="200" height="auto">
+    <img src="https://raw.githubusercontent.com/PensiveEagle/asset-repo/main/readme_assets/general_assets/pensiveeagle-logo-green.svg" alt="Pensive Eagle Logo" width="200" height="auto">
   </a>
 
 <h3 align="center">Astronomy Picture of the Day</h3>
