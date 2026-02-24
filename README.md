@@ -68,7 +68,7 @@
 ## About The Project
 
 
-<img src="/image/capture.png" alt="project_capture" width="100%" height="auto">
+<img src="https://github.com/PensiveEagle/asset-repo/blob/main/readme_assets/astro-pic-app/web_screenshot.png?raw=true" alt="project_capture" width="100%" height="auto">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +109,7 @@ This is an example of how to list things you need to use the software and how to
    git remote -v # confirm the changes
    ```
 4. Create a ".env" file at the project root: `astro-pic-app/.env`
-5. Enter your API in `.env`
+5. Enter your API in `.env` - with no quotes needed
    ```env
    NASA_API_KEY='Enter your api key'
    ```
